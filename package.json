@@ -1,0 +1,12 @@
+{
+  "name": "1.2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "current.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
+}
